@@ -1,6 +1,7 @@
-# lms
+# Advanced-Library-Management-System
 
-library management system
+
+Advanced-Library-Management-System
 
 [![Built with Cookiecutter Django](https://img.shields.io/badge/built%20with-Cookiecutter%20Django-ff69b4.svg?logo=cookiecutter)](https://github.com/cookiecutter/cookiecutter-django/)
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
@@ -10,6 +11,10 @@ library management system
 Moved to [settings](http://cookiecutter-django.readthedocs.io/en/latest/settings.html).
 
 ## Basic Commands
+
+### Api Endpoint
+
+http://127.0.0.1:8000/api/docs/
 
 ### Setting Up Your Users
 
